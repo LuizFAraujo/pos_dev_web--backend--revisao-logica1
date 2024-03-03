@@ -1,0 +1,14 @@
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\bin\Debug\net6.0\EXERC_12.exe
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\bin\Debug\net6.0\EXERC_12.deps.json
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\bin\Debug\net6.0\EXERC_12.runtimeconfig.json
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\bin\Debug\net6.0\EXERC_12.dll
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\bin\Debug\net6.0\EXERC_12.pdb
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\EXERC_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\EXERC_12.AssemblyInfoInputs.cache
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\EXERC_12.AssemblyInfo.cs
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\EXERC_12.csproj.CoreCompileInputs.cache
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\EXERC_12.dll
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\refint\EXERC_12.dll
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\EXERC_12.pdb
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\EXERC_12.genruntimeconfig.cache
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_12\obj\Debug\net6.0\ref\EXERC_12.dll
