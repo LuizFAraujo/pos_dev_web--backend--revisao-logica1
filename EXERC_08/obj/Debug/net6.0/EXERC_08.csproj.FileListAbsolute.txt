@@ -1,0 +1,14 @@
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\bin\Debug\net6.0\EXERC_08.exe
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\bin\Debug\net6.0\EXERC_08.deps.json
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\bin\Debug\net6.0\EXERC_08.runtimeconfig.json
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\bin\Debug\net6.0\EXERC_08.dll
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\bin\Debug\net6.0\EXERC_08.pdb
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\EXERC_08.GeneratedMSBuildEditorConfig.editorconfig
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\EXERC_08.AssemblyInfoInputs.cache
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\EXERC_08.AssemblyInfo.cs
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\EXERC_08.csproj.CoreCompileInputs.cache
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\EXERC_08.dll
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\refint\EXERC_08.dll
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\EXERC_08.pdb
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\EXERC_08.genruntimeconfig.cache
+D:\@ POS\BACK\AULA 01\ATIVIDADE\EXERC_08\obj\Debug\net6.0\ref\EXERC_08.dll
